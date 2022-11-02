@@ -1,0 +1,9 @@
+{
+  "name": "fromis_9",
+  "version": "1.0.0",
+  "description": "fromis_9 web page",
+  "main": "index.js",
+  "repository": "https://github.com/ros4s/fromis_9.git",
+  "author": "ros4s <c01066033993@gmail.com>",
+  "license": "MIT"
+}

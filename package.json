@@ -1,0 +1,21 @@
+{
+  "name": "fromis_9",
+  "version": "1.0.0",
+  "description": "fromis_9 web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd frontend && npm start",
+    "server": "cd backend && nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ros4s/fromis_9.git"
+  },
+  "author": "ros4s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ros4s/fromis_9/issues"
+  },
+  "homepage": "https://github.com/ros4s/fromis_9#readme"
+}

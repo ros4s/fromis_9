@@ -1,12 +1,7 @@
-html,
 body {
-  height: 100%;
-}
-
-body {
-  margin: 0;
   background-color: #bbbadc;
   overflow: hidden;
+  text-align: center;
 }
 
 nav {
@@ -180,4 +175,5 @@ nav a:nth-child(7):hover ~ #indicator {
   justify-content: center;
   align-items: center;
   display: inline-block;
+  margin: 80px;
 }

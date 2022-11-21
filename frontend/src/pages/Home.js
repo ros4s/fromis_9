@@ -1,13 +1,13 @@
 import "../style/home.css";
-import home_image from "../images/home.png";
-import from_1 from "../images/1f.jpg";
-import from_2 from "../images/2f.jpg";
-import from_4 from "../images/4f.jpg";
-import from_5 from "../images/5f.jpg";
-import from_6 from "../images/6f.jpg";
-import from_7 from "../images/7f.jpg";
-import from_8 from "../images/8f.jpg";
-import from_9 from "../images/9f.jpg";
+import home_image from "../images/home.avif";
+import from_1 from "../images/1f.avif";
+import from_2 from "../images/2f.avif";
+import from_4 from "../images/4f.avif";
+import from_5 from "../images/5f.avif";
+import from_6 from "../images/6f.avif";
+import from_7 from "../images/7f.avif";
+import from_8 from "../images/8f.avif";
+import from_9 from "../images/9f.avif";
 
 function Home() {
   return (

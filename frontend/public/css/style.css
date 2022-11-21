@@ -1,7 +1,9 @@
 body {
   background-color: #bbbadc;
-  overflow: hidden;
+  overflow-x: hidden;
   text-align: center;
+  font-family: "Indie Flower";
+  line-height: 1.618em;
 }
 
 nav {
